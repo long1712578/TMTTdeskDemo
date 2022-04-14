@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39f0ae53-fb7a-4097-8c98-7e2b3fcc80d8": {
+      "ProjectGuid": "39f0ae53-fb7a-4097-8c98-7e2b3fcc80d8",
+      "DisplayName": "TMTDemoMongDb",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

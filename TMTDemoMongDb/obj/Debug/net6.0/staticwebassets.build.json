@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dDfm9scE1h2Mg+NBD6y1FFRFXHvpIUMSrP6QGdphMzI=",
+  "Source": "TMTDemoMongDb",
+  "BasePath": "_content/TMTDemoMongDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
